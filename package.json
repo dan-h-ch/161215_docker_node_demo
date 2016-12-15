@@ -1,0 +1,16 @@
+{
+  "name": "161215_docker_node_demo",
+  "version": "1.0.0",
+  "description": "quick docker demo with node",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan-h-ch/161215_docker_node_demo.git"
+  },
+  "author": "Daniel Chang (dan-h-ch)",
+  "license": "ISC",
+  "homepage": "https://github.com/dan-h-ch/161215_docker_node_demo#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
